@@ -6,3 +6,4 @@ e=a*c
 
 print(c,d,e)
 
+Print(a)
