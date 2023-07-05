@@ -5,5 +5,6 @@ d=a*b
 e=a*c
 
 print(c,d,e)
-print(a,b,c,d,e)
+print(a,b)
 print(Hey dude finallyyy, what )
+=======
