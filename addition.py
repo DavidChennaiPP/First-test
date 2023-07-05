@@ -6,4 +6,4 @@ e=a*c
 
 print(c,d,e)
 print(a,b,c,d,e)
-
+print(Hey dude finally)
